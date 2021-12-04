@@ -1,5 +1,5 @@
 <h1 align="center">👋 Welcome!! I'm William Morales</h1>
-<h3 align="center">A passionate web developer on development</h3>
+<h3 align="center">A passionate web developer in development</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=williamrolando88&label=Profile%20views&color=0e75b6&style=plastic" alt="williamrolando88" /> </p>
 
