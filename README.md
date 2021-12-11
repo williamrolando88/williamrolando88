@@ -170,5 +170,5 @@ I will be adding more skills in the future...🤓
 Feeling curious? 🤔 Why don't contact me? 😉
 
 <a href="https://twitter.com/willymorales93" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="willymorales93" height="30" width="30"/></a>
-<a href="https://linkedin.com/in/william-morales-palma/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william-morales-palma/" height="30" width="60"/></a>
+<a href="https://linkedin.com/in/william-rolando-morales/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william-morales-palma/" height="30" width="60"/></a>
 <a href="mailto:william.rolando88@hotmail.com?subject=Want%20to%20contact" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1024px-Circle-icons-mail.svg.png" alt="william-morales-palma/" height="30" width="30"/></a>
