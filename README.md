@@ -9,7 +9,7 @@ In love with Front-End Web Development 💖.
 
 Problem solving mindset and result focused 📈
 
-I'm always open to collaborate
+I'm always open to collaborate 🤝
 
 Fun fact 🤓: I have two cats 🐈🐈
 
