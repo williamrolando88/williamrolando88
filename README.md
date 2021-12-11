@@ -5,6 +5,12 @@
 
 I used to work as mechanical engineer in my past live 👨‍🔧. I’m currently learning the ups and downs for Web Development 👨‍💻.
 
+In love with Front-End Web Development 💖.
+
+Problem solving mindset and result focused 📈
+
+I'm always open to collaborate
+
 Fun fact 🤓: I have two cats 🐈🐈
 
 ## Languages, Frameworks and Tools:
