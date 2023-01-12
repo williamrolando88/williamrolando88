@@ -14,7 +14,7 @@ I'm always open to collaborate 🤝
 Fun fact 🤓: I have two cats 🐈🐈
 
 ## Languages, Frameworks and Tools:
-
+<!--
 Take a look at my current skills 🔎
 
 <br />
@@ -22,7 +22,7 @@ Take a look at my current skills 🔎
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamrolando88&show_icons=true&theme=dark&locale=en&layout=compact" alt="williamrolando88" height="150"/>
   <!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=williamrolando88&theme=dark" alt="williamrolando88" 
-    height="150"/> -->
+    height="150"/> 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=williamrolando88&show_icons=true&theme=dark&locale=en" alt="williamrolando88" height="150" />
 </p>
 
@@ -32,7 +32,7 @@ Take a look at my current skills 🔎
 <br />
 <br />
 <br />
-<br />
+<br />-->
 <br />
 
 ### Front-End Web Development Frameworks and Tolls:
