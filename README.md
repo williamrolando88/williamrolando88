@@ -3,19 +3,19 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=williamrolando88&label=Profile%20views&color=0e75b6&style=plastic" alt="williamrolando88" /> </p>
 
-I used to work as mechanical engineer in my past live 👨‍🔧. I’m currently learning the ups and downs for Web Development 👨‍💻.
+I used to work as a mechanical engineer in my past life 👨‍🔧. I’m currently learning the ups and downs of Web Development 👨‍💻.
 
-In love with Front-End Web Development 💖.
+Problem-solving mindset and result focused 📈
 
-Problem solving mindset and result focused 📈
-
-I'm always open to collaborate 🤝
+I'm always open to collaborating 🤝
 
 Fun fact 🤓: I have two cats 🐈🐈
 
 ## Languages, Frameworks and Tools:
+
+Take a look at some of my skills 🔎
+
 <!--
-Take a look at my current skills 🔎
 
 <br />
 
@@ -224,7 +224,7 @@ I will be adding more skills in the future...🤓
 
 ## Did I catch your attention?
 
-Feeling curious? 🤔 Why don't contact me? 😉
+Are you feeling curious? 🤔 Why don't you contact me? 😉
 
 <a href="https://twitter.com/willymorales93" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="willymorales93" height="30" width="30"/></a>
 <a href="https://linkedin.com/in/william-rolando-morales/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william-morales-palma/" height="30" width="60"/></a>
